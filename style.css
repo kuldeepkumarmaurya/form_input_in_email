@@ -19,7 +19,6 @@ body{
 .product_img{
     width: 60%;
     height: 50%;
-    border: 2px solid black;
     margin-bottom: 170px;
 }
 .product_img img{
